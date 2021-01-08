@@ -33,4 +33,6 @@ It then requires to select whether you are paying cash or credit, this is the cr
 
 Clone project into an IDE of choice (that supports programming in java)
 
-Run A05.java 
+Open a command line or terminal window
+
+Run ```java -jar vending_machine.jar``` 
