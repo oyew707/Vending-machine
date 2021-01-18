@@ -14,20 +14,19 @@ Created the graphics user interface by making subclasses of Java Swing Buttons, 
 
 ### Example of the GUI
 
-The front page
-!(./oyew7070_a05/Image/Vending%20Machine.png?raw=true)
+![The front page](./oyew7070_a05/Image/Vending%20Machine.png?raw=true)
 
-We can make a selection based on the options on the Right, for example this chooses Lays Classic(A1)
-!(./oyew7070_a05/Image/Vending%20Machine%20selection.png?raw=true)
 
-It shows the price and gives an option whether to proceed or not
-!(./oyew7070_a05/Image/vending%20machine%20pay.png?raw=true)
+![We can make a selection based on the options on the Right, for example this chooses Lays Classic(A1)](./oyew7070_a05/Image/Vending%20Machine%20selection.png?raw=true)
 
-It then requires to select whether you are paying cash or credit, this is the cash selection. It is initialized with 20 nickles, 10 dimes and 14 quarters
-!(./oyew7070_a05/Image/Vending%20machine%20credit.png?raw=true)
 
-It then requires to select whether you are paying cash or credit, this is the credit selection, it accepts the payment or declines it after some time has passed
-!(./oyew7070_a05/Image/Vending%20machine%20cash.png?raw=true)
+![It shows the price and gives an option whether to proceed or not](./oyew7070_a05/Image/vending%20machine%20pay.png?raw=true)
+
+
+![It then requires to select whether you are paying cash or credit, this is the cash selection. It is initialized with 20 nickels, 10 dimes and 14 quarters](./oyew7070_a05/Image/Vending%20machine%20credit.png?raw=true)
+
+
+![It then requires to select whether you are paying cash or credit, this is the credit selection, it accepts the payment or declines it after some time has passed](./oyew7070_a05/Image/Vending%20machine%20cash.png?raw=true)
 
 #### How to Run 
 
